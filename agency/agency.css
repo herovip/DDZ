@@ -84,7 +84,7 @@ input[type="number"]{-moz-apperance:textfield;}
 }
 .selectRightBox span{
 	display: inline-block;
-	width: 70px;
+	width: 40px;
 	height: 32px;
 }
 .selectRightBox input{

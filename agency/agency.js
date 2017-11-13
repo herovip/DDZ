@@ -1,4 +1,4 @@
-// 代理类别，0为皇冠代理，1为金牌代理
+// 代理类别，0为皇冠代理，1为区域联合创始人
 var agencyType = 2;
 
 $(document).ready(function () {
